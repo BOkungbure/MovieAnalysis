@@ -22,5 +22,4 @@ README.md: readme document with the summary of the project details
 
 
 # Summary of Results
-
-Article https://medium.com/@babatundeokungbure/how-have-movies-runtimes-gotten-longer-996c22150877
+After goign through the data, it was refreshing to see that contrary to my suspicions, movie runtimes have actually reduced considerably through the years, from an average of almost 3 hours between the 60s & 70s to just under 2hrs in the 2010s, also from all indications, it seems the longer a movie is, the less popular it is and finally, paramount pictures are the most profitable studio in the last 7 decades, I've captured all my thoughts in a blog post here https://medium.com/@babatundeokungbure/how-have-movies-runtimes-gotten-longer-996c22150877
